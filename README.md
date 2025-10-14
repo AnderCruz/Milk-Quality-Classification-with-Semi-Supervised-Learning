@@ -1,4 +1,4 @@
-# 🥛 Milk Quality Classification with Semi-Supervised Learning
+# Milk Quality Classification with Semi-Supervised Learning
 
 ## 📌 Project Overview
 
@@ -17,7 +17,7 @@ Since the dataset contains both **labeled and unlabeled samples**, we applied **
 * ✅ Label Propagation (transductive learning)
 * ✅ Supervised baselines for performance comparison
 
----
+
 
 ## 📊 Dataset
 
@@ -36,7 +36,7 @@ The dataset was provided in a CSV file named **`qualidade_leite.csv`**, containi
 
 📌 Note: Only a portion of the dataset has labels, which makes it ideal for **semi-supervised approaches**.
 
----
+
 
 ## ⚙️ Project Objectives
 
@@ -47,7 +47,7 @@ The dataset was provided in a CSV file named **`qualidade_leite.csv`**, containi
 5. Explore **transductive learning** using **Label Propagation**.
 6. Compare the results against fully supervised models.
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -57,7 +57,7 @@ The dataset was provided in a CSV file named **`qualidade_leite.csv`**, containi
 * **Matplotlib & Seaborn** – Data visualization
 * **Jupyter Notebook** – Experiment tracking
 
----
+
 
 ## 📈 Expected Results
 
@@ -65,7 +65,7 @@ The dataset was provided in a CSV file named **`qualidade_leite.csv`**, containi
 * Demonstration of how **unlabeled data** can boost model accuracy.
 * Comparison between **Self-Training, Label Propagation, and supervised baselines**.
 
----
+
 
 ## 👨‍💻 Authors
 
